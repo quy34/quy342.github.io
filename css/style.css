@@ -1,0 +1,66 @@
+/* style.css */
+/* Your custom CSS goes here */
+
+nav.navbar {
+    background: #73AD21;
+    padding: 20px;
+    height: 90px;
+    border-radius: 50px 15px 50px;
+}
+
+
+
+#navbarNav {
+    color: #ffffff;
+    justify-content: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.col {
+    text-align: center;
+}
+
+div.col-6 {
+    text-align-last: center;
+}
+
+
+
+
+.btn {
+    background-color: #97dd34;
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 20px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px 15px 50px;
+}
+
+.btn:hover {
+    background-color: #97dd34;
+    color: white;
+    border-radius: 15px 50px 15px;
+}
+
+#readbtn {
+    background-color: #d1e7b2;
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px 15px;
+}
+
+#readbtn:hover {
+    color: rgb(2, 134, 117);
+    border-radius: 50px;
+}
